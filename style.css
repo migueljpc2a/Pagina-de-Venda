@@ -10,4 +10,5 @@ header {
     align-items: center;
     justify-content: space-between;
     padding: 8px 16px;
+    margin: auto;
   }
