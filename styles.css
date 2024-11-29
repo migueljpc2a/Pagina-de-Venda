@@ -13,22 +13,11 @@ header {
 }
 
 .fundo {
-  /* Define a imagem de fundo */
   background-image: url('background.jpg');
-
-  /* Faz com que o fundo cubra toda a área da seção */
   background-size: cover;
-
-  /* Centraliza a imagem */
   background-position: center;
-
-  /* Garante que a imagem de fundo não role com o conteúdo */
   background-attachment: fixed;
-
-  /* Define altura mínima para a seção */
   min-height: 100vh;
-
-  /* Adiciona alguma margem ou preenchimento se necessário */
   margin: 0;
   padding: 0;
 }
