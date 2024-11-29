@@ -5,12 +5,9 @@ body {
   }
 
 header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  background-color: #fff;
-  border-bottom: 2px solid #000;
-  padding: 10px 20px;
-  z-index: 1000;
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 16px;
 }
