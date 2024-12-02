@@ -53,7 +53,7 @@ h2 {
   margin-bottom: 20px;
 }
 
-.products {
+.produtos {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
