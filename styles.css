@@ -53,6 +53,12 @@ h2 {
   margin-bottom: 20px;
 }
 
+.titulo {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 .produtos {
   display: flex;
   flex-wrap: wrap;
