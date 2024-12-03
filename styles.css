@@ -16,7 +16,7 @@ body {
 }
 
 header {
-  background-color: #4CAF50;
+  background-color: #4335A7;
   color: white;
   padding: 20px 0;
 }
@@ -95,13 +95,13 @@ h2 {
 }
 
 .product-card .price {
-  color: #b12704;
+  color: #FF7F3E;
   font-size: 1.2rem;
   margin: 10px 0;
 }
 
 .product-card .btn {
-  background-color: #4CAF50;
+  background-color: #80C4E9;
   color: white;
   border: none;
   padding: 10px;
@@ -115,7 +115,7 @@ h2 {
 }
 
 footer {
-  background-color: #4CAF50;
+  background-color: #4335A7;
   color: white;
   text-align: center;
   padding: 10px 0;
